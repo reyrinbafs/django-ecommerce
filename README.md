@@ -76,10 +76,6 @@ To set up the Django e-commerce website on your local machine, follow these step
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please submit an issue or a pull request. Let's collaborate and make this Django e-commerce website even better.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code according to the terms and conditions of the license.
-
 ## Acknowledgments
 
 This project was developed using the Django framework, which greatly contributed to its robustness and efficiency. Special thanks to the Django community for their continuous support and the open-source community for their valuable contributions.
