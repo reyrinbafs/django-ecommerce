@@ -23,7 +23,7 @@ To set up the Django e-commerce website on your local machine, follow these step
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/reyrinbafs/django-ecommerce
    ```
 
 2. Create a virtual environment:
